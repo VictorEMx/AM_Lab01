@@ -1,8 +1,9 @@
 ---
-title: Lab 1. Introduction to R 
-author: Dr. Edmundo Molina, Victor Espinoza, Josue Morales, Antonio Sebastian 
+title: Lab 1. Introduction to R
+author: Dr. Edmundo Molina, Victor Espinoza, Josue Morales, Antonio Sebastian
 output: html_document
 ---
+# En esta linea yo voy a ingresar un cambio
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
